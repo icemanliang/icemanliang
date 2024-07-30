@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icemanliang&show_icons=true&theme=radical) -->
-- 🚀 I use daily:
+- 🚀 I use:
   [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://github.com/icemanliang)
-  [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://github.com/icemanliang)
+  [![Vue](https://img.shields.io/badge/React.js-35495E?logo=react.js&logoColor=4FC08D)](https://github.com/icemanliang)
   [![React](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://github.com/icemanliang)
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://github.com/icemanliang)
   [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)](https://github.com/icemanliang)
@@ -29,22 +29,21 @@ Here are some ideas to get you started:
   [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://github.com/icemanliang)
   [![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins&logoColor=F16061)](https://github.com/icemanliang)
 
-- 💻 I work using:
+- 💻 I code:
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://github.com/icemanliang)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://github.com/icemanliang)
   [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://github.com/icemanliang)
   [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)](https://github.com/icemanliang)
 
-- ⚙️ I also use and work:
+- ⚙️ I also work:
   [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://github.com/icemanliang)
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://github.com/icemanliang)
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)](https://github.com/icemanliang)
 
-- 🌱 I’m currently learning:
-  [![V8](https://img.shields.io/badge/-V8-3DDC84?logo=v8&logoColor=4788F4)](https://github.com/icemanliang)
 
 
 Welcome, You are my ![:icemanliang](https://count.getloli.com/get/@:icemanliang) visitor, Thank You!🎉🎉
+
 <!--
 <div align="center" > <img height="137px" src="https://github-readme-stats.vercel.app/api?username=icemanliang&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 -->
@@ -55,12 +54,12 @@ Welcome, You are my ![:icemanliang](https://count.getloli.com/get/@:icemanliang)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=icemanliang&theme=nord_bright)
 
 
-🔥 My projects:
+🔥 My famous projects:
 -----------------------
 code-analysis-ts : https://github.com/icemanliang/code-analysis-ts
 
 
-🔥 My Skill Set:
+🔥 My skills set:
 -----------------------
 <table><tr><td valign="top" width="33%">
 
