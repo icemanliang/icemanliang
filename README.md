@@ -36,7 +36,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=icemanliang&theme=nord_bright)
 
 ### Code Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icemanliang&layout=compact&theme=tokyonight)
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icemanliang&layout=compact&theme=tokyonight" height="137px" /></span><span><img height="137px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=icemanliang&theme=nord_bright" /> </span>
 
 ### Skills Graph
 <table><tr><td valign="top" width="33%">
