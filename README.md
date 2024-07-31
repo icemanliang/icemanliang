@@ -9,7 +9,7 @@
 - 🚀 技术文章：<a href="https://juejin.cn/user/1169536105328462/posts" target="_blank">前端知识原创汇总</a>
 - 👨‍💻 擅长领域：前端工程化，架构设计，AST代码分析，音视频，3D渲染，NodeServer
   
-## Main technical skills set
+### Technical Skills
 - Language：
   [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://github.com/icemanliang)
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://github.com/icemanliang)
@@ -33,15 +33,16 @@
   [![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins&logoColor=F16061)](https://github.com/icemanliang)
 
 
-#### GitHub stats
+### GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=icemanliang&theme=nord_bright)
 
 
-#### skills graph
+### Skills Graph
 -----------------------
 <table><tr><td valign="top" width="33%">
  
 <div align="center"> Frontend </div>
+<br/>
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -58,6 +59,7 @@
 
 
 <div align="center"> Backend </div>
+<br/>
 <div align="center">
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
@@ -72,7 +74,8 @@
 
 
 
-<div align="center"> DevOps </div>  
+<div align="center"> DevOps </div>
+<br/>
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
