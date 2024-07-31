@@ -26,7 +26,7 @@
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://github.com/icemanliang)
   [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://github.com/icemanliang)
 - DevOps：
-  [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)](https://github.com/icemanliang)  
+  [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)](https://github.com/icemanliang)
   [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)](https://github.com/icemanliang)
   [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)](https://github.com/icemanliang)
   [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://github.com/icemanliang)
@@ -34,6 +34,7 @@
 
 
 ### GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icemanliang&layout=compact&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=icemanliang&theme=nord_bright)
 
 
@@ -41,7 +42,7 @@
 -----------------------
 <table><tr><td valign="top" width="33%">
  
-<div align="center"> Frontend </div>
+<div align="center" style="font-size: 20px"> Frontend </div>
 <br/>
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -58,7 +59,7 @@
 
 
 
-<div align="center"> Backend </div>
+<div align="center" style="font-size: 20px"> Backend </div>
 <br/>
 <div align="center">
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
@@ -74,7 +75,7 @@
 
 
 
-<div align="center"> DevOps </div>
+<div align="center" style="font-size: 20px"> DevOps </div>
 <br/>
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
