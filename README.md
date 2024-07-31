@@ -15,8 +15,8 @@
 
 ### About Me
 
-- 🌱 自我介绍：前端iceman, 全栈工程师，热衷开源，乐于分析，掘金社区畅销课作者
-- 🌐 过往履历：工作10年+，多年京东，腾讯，shopee等大厂面试官，导师经历，目前担任前端架构师
+- 🌱 自我介绍：前端iceman, 全栈工程师，热衷开源，乐于分析，掘金畅销课作者，现某大厂前端架构师
+- 🌐 过往履历：工作10年+，曾任职于京东，腾讯，shopee等互联网大厂，多年面试官，导师经历
 - 🔥 开源项目：<a href="https://github.com/icemanliang/code-analysis-ts" target="_blank">code-analysis-ts</a>
 - 💻 掘金课程：<a href="https://s.juejin.cn/ds/iMsB4RxQ/" target="_blank">《前端依赖治理：代码分析工具开发实战》</a>
 - 📖 技术文章：<a href="https://juejin.cn/user/1169536105328462/posts" target="_blank">前端知识原创汇总</a>
