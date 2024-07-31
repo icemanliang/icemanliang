@@ -9,14 +9,14 @@
     <a href="https://juejin.cn/user/3257207932075799"><img src="https://img.shields.io/badge/Website-掘金-blue" /></a>&emsp;
     <!--<a href="https://space.bilibili.com/23473180/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;-->
     <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=icemanliang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=icemanliang&label=Views&color=3CB371&style=flat" alt="访问量统计" />
 </div>
 <br/>
 
 ### About Me
 
-- 🌱 自我介绍：全栈工程师，乐于分析，多年大厂面试官经历，目前担任前端架构师，掘金社区畅销课程作者(前端iceman)
-- 🌐 过往履历：京东，腾讯，shopee
+- 🌱 自我介绍：前端iceman, 全栈工程师，热衷开源，乐于分析，掘金社区畅销课作者
+- 🌐 过往履历：工作10年+，多年京东，腾讯，shopee等大厂面试官，导师经历，目前担任前端架构师
 - 🔥 开源项目：<a href="https://github.com/icemanliang/code-analysis-ts" target="_blank">code-analysis-ts</a>
 - 💻 掘金课程：<a href="https://s.juejin.cn/ds/iMsB4RxQ/" target="_blank">《前端依赖治理：代码分析工具开发实战》</a>
 - 📖 技术文章：<a href="https://juejin.cn/user/1169536105328462/posts" target="_blank">前端知识原创汇总</a>
