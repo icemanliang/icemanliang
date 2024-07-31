@@ -46,7 +46,7 @@
   [![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins&logoColor=F16061)](https://github.com/icemanliang)
 
 ### Github Stats
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icemanliang&layout=compact&theme=default" height="160px" /></span><span><img style="margin-left: 10px" height="160px" weight="290px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=icemanliang&theme=nord_bright" /> </span>
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icemanliang&layout=compact&theme=default" height="160px" /></span><span style="margin-left: 10px"><img height="160px" weight="290px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=icemanliang&theme=nord_bright" /></span>
 
 ### Skill Graph
 <table><tr><td valign="top" width="33%">
@@ -66,7 +66,7 @@
 
 
 
-<div align="center" style="margin-bottom: 10px"> <h3>Backend</h3> </div>
+<div align="center" style="margin-bottom: 20px"> <h3>Backend</h3> </div>
 <div align="center">
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
