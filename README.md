@@ -15,7 +15,7 @@
 
 ### About Me
 
-- 🌱 自我介绍：全栈工程师，乐于分析，多年大厂面试官经历，目前任职于某大厂，担任前端架构师，掘金社区畅销课程签约作者(前端iceman)
+- 🌱 自我介绍：全栈工程师，乐于分析，多年大厂面试官经历，目前担任前端架构师，掘金社区畅销课程作者(前端iceman)
 - 🌐 过往履历：京东，腾讯，shopee
 - 🔥 开源项目：<a href="https://github.com/icemanliang/code-analysis-ts" target="_blank">code-analysis-ts</a>
 - 💻 掘金课程：<a href="https://s.juejin.cn/ds/iMsB4RxQ/" target="_blank">《前端依赖治理：代码分析工具开发实战》</a>
@@ -46,13 +46,12 @@
   [![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins&logoColor=F16061)](https://github.com/icemanliang)
 
 ### Github Stats
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icemanliang&layout=compact&theme=tokyonight" height="160px" /></span><span><img height="160px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=icemanliang&theme=nord_bright" /> </span>
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icemanliang&layout=compact&theme=default" height="160px" /></span><span><img style="margin-left: 10px" height="160px" weight="290px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=icemanliang&theme=nord_bright" /> </span>
 
 ### Skill Graph
 <table><tr><td valign="top" width="33%">
  
-<div align="center"> <h2>Frontend</h2> </div>
-<br/>
+<div align="center" style="margin-bottom: 10px"> <h3>Frontend</h3> </div>
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -67,8 +66,7 @@
 
 
 
-<div align="center"> <h2>Backend</h2> </div>
-<br/>
+<div align="center" style="margin-bottom: 10px"> <h3>Backend</h3> </div>
 <div align="center">
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
@@ -83,8 +81,7 @@
 
 
 
-<div align="center"> <h2>DevOps</h2> </div>
-<br/>
+<div align="center" style="margin-bottom: 10px"> <h3>DevOps</h3> </div>
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
