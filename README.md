@@ -11,15 +11,18 @@
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=icemanliang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
+<br/>
 
-- 🌱 自我介绍：全栈工程师，乐于分析，多年大厂面试官经历，目前任职于某大厂，担任前端架构师，掘金社区畅销课程签约作者
+### About Me
+
+- 🌱 自我介绍：全栈工程师，乐于分析，多年大厂面试官经历，目前任职于某大厂，担任前端架构师，掘金社区畅销课程签约作者(前端iceman)
 - 🌐 过往履历：京东，腾讯，shopee
 - 🔥 开源项目：<a href="https://github.com/icemanliang/code-analysis-ts" target="_blank">code-analysis-ts</a>
 - 💻 掘金课程：<a href="https://s.juejin.cn/ds/iMsB4RxQ/" target="_blank">《前端依赖治理：代码分析工具开发实战》</a>
 - 📖 技术文章：<a href="https://juejin.cn/user/1169536105328462/posts" target="_blank">前端知识原创汇总</a>
 - 👨‍💻 擅长领域：前端工程化，架构设计，AST代码分析，音视频，3D渲染，NodeServer
   
-### Technical Skills
+### Tech Skills
 - Language：
   [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://github.com/icemanliang)
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://github.com/icemanliang)
@@ -45,7 +48,7 @@
 ### Github Stats
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icemanliang&layout=compact&theme=tokyonight" height="160px" /></span><span><img height="160px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=icemanliang&theme=nord_bright" /> </span>
 
-### Skills Graph
+### Skill Graph
 <table><tr><td valign="top" width="33%">
  
 <div align="center"> <h2>Frontend</h2> </div>
