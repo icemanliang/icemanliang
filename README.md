@@ -26,21 +26,24 @@
   Language：
   
   [![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=plastic&logo=JavaScript&logoColor=FFCA28)](https://github.com/icemanliang)
-  [![TyprScript](https://img.shields.io/badge/TyprScript-000000?style=plastic&logo=TyprScript&logoColor=FFCA28)](https://github.com/icemanliang)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=plastic&logo=TypeScript&logoColor=FFCA28)](https://github.com/icemanliang)
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://github.com/icemanliang)
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)](https://github.com/icemanliang)
   
   Framework：
   
   [![React](https://img.shields.io/badge/React-35495E?logo=react&logoColor=4FC08D)](https://github.com/icemanliang)
-  [![Vue](https://img.shields.io/badge/Vue-35495E?logo=vue&logoColor=4FC08D)](https://github.com/icemanliang)
+  [![Vue](https://img.shields.io/badge/Vue-35495E?logo=vue.js&logoColor=4FC08D)](https://github.com/icemanliang)
   [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://github.com/icemanliang)
-  [![Koa](https://img.shields.io/badge/-koa-007ACC?style=plastic&logo=koa)](https://github.com/icemanliang)
+  [![Next](https://img.shields.io/badge/-Next-007ACC?style=plastic&logo=next.js)](https://github.com/icemanliang)
+  [![Koa](https://img.shields.io/badge/-Koa-007ACC?style=plastic&logo=koa)](https://github.com/icemanliang)
+  [![Electron](https://img.shields.io/badge/-Electron-007ACC?style=plastic&logo=electron)](https://github.com/icemanliang)
   
   Devtools：
   
   [![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)](https://github.com/icemanliang)
   [![Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)](https://github.com/icemanliang)
+  [![Jest](https://img.shields.io/badge/-jest-2B3A42?logo=jest&logoColor=75AFCC)](https://github.com/icemanliang)
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://github.com/icemanliang)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://github.com/icemanliang)
   [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://github.com/icemanliang)
@@ -60,8 +63,6 @@
 
 ### Skill Graph
 <table><tr><td valign="top" width="33%" border="0">
-
-
 
 ### Frontend
 <br/>
