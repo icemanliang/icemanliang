@@ -31,8 +31,8 @@
   
   Framework：
   
-  [![Vue](https://img.shields.io/badge/React-35495E?logo=react.js&logoColor=4FC08D)](https://github.com/icemanliang)
-  [![React](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://github.com/icemanliang)
+  [![React](https://img.shields.io/badge/React-35495E?logo=react&logoColor=4FC08D)](https://github.com/icemanliang)
+  [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue&logoColor=4FC08D)](https://github.com/icemanliang)
   [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://github.com/icemanliang)
   
   Devtools：
