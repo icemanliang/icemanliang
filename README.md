@@ -46,7 +46,9 @@
   [![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins&logoColor=F16061)](https://github.com/icemanliang)
 
 ### Github Stats
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icemanliang&layout=compact&theme=default" height="160px" /></span><span style="margin-left: 10px"><img height="160px" weight="290px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=icemanliang&theme=nord_bright" /></span>
+<span><img height="160px" weight="290px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=icemanliang&show_icons=true&count_private=true&hide_border=true" /></span>
+<span>   </span>
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icemanliang&layout=compact&theme=default&hide_border=true" height="160px" /></span>
 
 ### Skill Graph
 <table><tr><td valign="top" width="33%">
@@ -54,8 +56,7 @@
 <div align="center"> <h3>Frontend</h3> </div>
 <h1> </h1>
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>    
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
