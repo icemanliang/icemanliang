@@ -25,19 +25,20 @@
 ### Tech Skills
   Language：
   
-  [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://github.com/icemanliang)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=plastic&logo=JavaScript&logoColor=FFCA28)](https://github.com/icemanliang)
+  [![TyprScript](https://img.shields.io/badge/TyprScript-000000?style=plastic&logo=TyprScript&logoColor=FFCA28)](https://github.com/icemanliang)
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://github.com/icemanliang)
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)](https://github.com/icemanliang)
   
   Framework：
   
   [![React](https://img.shields.io/badge/React-35495E?logo=react&logoColor=4FC08D)](https://github.com/icemanliang)
-  [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue&logoColor=4FC08D)](https://github.com/icemanliang)
+  [![Vue](https://img.shields.io/badge/Vue-35495E?logo=vue&logoColor=4FC08D)](https://github.com/icemanliang)
   [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://github.com/icemanliang)
+  [![Koa](https://img.shields.io/badge/-koa-007ACC?style=plastic&logo=koa)](https://github.com/icemanliang)
   
   Devtools：
   
-  [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://github.com/icemanliang)
   [![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)](https://github.com/icemanliang)
   [![Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)](https://github.com/icemanliang)
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://github.com/icemanliang)
@@ -51,6 +52,7 @@
   [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)](https://github.com/icemanliang)
   [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://github.com/icemanliang)
   [![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins&logoColor=F16061)](https://github.com/icemanliang)
+  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://linweiqian.github.io/linweiqianBlog/)
 
 ### Github Stats
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icemanliang&layout=compact&theme=default&hide_border=true" height="160px" /></span>
