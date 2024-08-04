@@ -26,7 +26,7 @@
   Language：
   
   [![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=plastic&logo=JavaScript&logoColor=FFCA28)](https://github.com/icemanliang)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=plastic&logo=TypeScript&logoColor=316CE6)](https://github.com/icemanliang)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-E0E0E0?style=plastic&logo=TypeScript&logoColor=316CE6)](https://github.com/icemanliang)
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://github.com/icemanliang)
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)](https://github.com/icemanliang)
   
@@ -43,7 +43,7 @@
   
   [![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)](https://github.com/icemanliang)
   [![Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)](https://github.com/icemanliang)
-  [![Jest](https://img.shields.io/badge/-jest-2B3A42?logo=jest&logoColor=75AFCC)](https://github.com/icemanliang)
+  [![Jest](https://img.shields.io/badge/-jest-E0E0E0)?logo=jest&logoColor=75AFCC)](https://github.com/icemanliang)
   [![Git](https://img.shields.io/badge/-Git-66FFB2?logo=git&logoColor=FF7043)](https://github.com/icemanliang)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://github.com/icemanliang)
   [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://github.com/icemanliang)
