@@ -28,7 +28,7 @@
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://github.com/icemanliang)
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)](https://github.com/icemanliang)
 - Framework：
-  [![Vue](https://img.shields.io/badge/React.js-35495E?logo=react.js&logoColor=4FC08D)](https://github.com/icemanliang)
+  [![Vue](https://img.shields.io/badge/React-35495E?logo=react.js&logoColor=4FC08D)](https://github.com/icemanliang)
   [![React](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://github.com/icemanliang)
   [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://github.com/icemanliang)
 - Devtools：
