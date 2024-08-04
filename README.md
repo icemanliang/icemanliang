@@ -33,18 +33,18 @@
   Framework：
   
   [![React](https://img.shields.io/badge/React-35495E?logo=react&logoColor=4FC08D)](https://github.com/icemanliang)
-  [![Vue](https://img.shields.io/badge/Vue-35495E?logo=vue.js&logoColor=4FC08D)](https://github.com/icemanliang)
+  [![Vue](https://img.shields.io/badge/Vue-66FFB2?logo=vue.js&logoColor=4FC08D)](https://github.com/icemanliang)
   [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://github.com/icemanliang)
   [![Next](https://img.shields.io/badge/-Next-007ACC?style=plastic&logo=next.js)](https://github.com/icemanliang)
   [![Koa](https://img.shields.io/badge/-Koa-FF6666?style=plastic&logo=koa&logoColor=000)](https://github.com/icemanliang)
-  [![Electron](https://img.shields.io/badge/-Electron-007ACC?style=plastic&logo=electron&logoColor=000)](https://github.com/icemanliang)
+  [![Electron](https://img.shields.io/badge/-Electron-66FFB2?style=plastic&logo=electron&logoColor=000)](https://github.com/icemanliang)
   
   Devtools：
   
   [![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)](https://github.com/icemanliang)
   [![Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)](https://github.com/icemanliang)
   [![Jest](https://img.shields.io/badge/-jest-2B3A42?logo=jest&logoColor=75AFCC)](https://github.com/icemanliang)
-  [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://github.com/icemanliang)
+  [![Git](https://img.shields.io/badge/-Git-66FFB2?logo=git&logoColor=FF7043)](https://github.com/icemanliang)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://github.com/icemanliang)
   [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://github.com/icemanliang)
   
