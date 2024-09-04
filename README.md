@@ -23,7 +23,28 @@
 - 👨‍💻 擅长领域：前端工程化，架构设计，AST代码分析，音视频，3D渲染，NodeServer
 
 ### Github Stats
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icemanliang&layout=compact&theme=default&hide_border=true" height="160px" /></span>
+
+<table>
+    <tr>
+      <td align="left" width="35%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icemanliang&layout=compact&theme=default&hide_border=true&hide_title=true" />
+      </td>
+      <td align="center" width="30%">
+        <img src="https://access-counter.vercel.app/api/counter?name=icemanliang&theme=006&length=7" />
+      </td>
+      <td align="right" width="35%">
+        <img src="https://github-readme-stats.vercel.app/api?username=icemanliang&layout=compact&show_icons=true&hide_border=true&hide_title=true" />
+      </td>
+    </tr>
+</table>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=icemanliang&theme=github&height=250&hide_title=true" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=icemanliang&bg_color=F6F8FA&color=708090&line=24292e&point=24292e&area=true&hide_border=true&height=250&hide_title=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=icemanliang&bg_color=F6F8FA&color=708090&line=24292e&point=24292e&area=true&hide_border=true&height=250&hide_title=true" alt="Github 活跃图" />
+</picture>
 
 ### Skill Graph
 <table><tr><td valign="top" width="33%" border="0">
