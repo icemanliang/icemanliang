@@ -17,10 +17,16 @@
 
 - 🌱 自我介绍：前端iceman, 全栈工程师，热衷开源，乐于分析，掘金畅销课作者，现某大厂前端架构师
 - 🌐 过往履历：工作10年+，曾任职于京东，腾讯，shopee等互联网大厂，多年面试官，导师经历
-- 🔥 开源项目：[code-analysis-ts](https://github.com/icemanliang/code-analysis-ts)
 - 💻 掘金课程：<a href="https://s.juejin.cn/ds/iMsB4RxQ/" target="_blank">《前端依赖治理：代码分析工具开发实战》</a>
 - 📖 技术文章：[前端知识原创汇总](https://juejin.cn/user/1169536105328462/posts)
 - 👨‍💻 擅长领域：前端工程化，架构设计，AST代码分析，音视频，3D渲染，NodeServer
+
+### My Projects
+- 🔥 依赖调用分析工具 ： [code-analysis-ts](https://github.com/icemanliang/code-analysis-ts) 
+- 🔥 前端代码扫描引擎Lib ： [scan-analysis-lib](https://github.com/icemanliang/scan-analysis-lib)
+- 🔥 代码扫描插件Plugins ： [scan-analysis-plugins](https://github.com/icemanliang/scan-analysis-plugins)
+- 🔥 分析Server&Runner ：[scan-analysis-server](https://github.com/icemanliang/scan-analysis-server)
+- 🔥 扫描引擎Vscode插件 ：[scan-analysis-vscode](https://github.com/icemanliang/scan-analysis-vscode)
 
 ### Github Stats
 
@@ -59,11 +65,8 @@
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="45" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="45" /></a>  
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="45" /></a>  
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="45" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="45" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="45" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="45" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="45" /></a>  
+<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="45" /></a>   
+<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="45" /></a> 
 </div>
 
 </td><td valign="top" width="33%">
